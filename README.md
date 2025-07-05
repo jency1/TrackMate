@@ -43,11 +43,10 @@ TrackMate is a user-friendly personal task tracker that helps you organize your 
 3. Run `npm run dev`
 
 
-<!--
 
 ## 🔗 Live Demo
+https://track-mate-seven.vercel.app/
 
--->
 
 
 ## 🖼️ Screenshots

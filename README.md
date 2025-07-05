@@ -11,7 +11,7 @@ TrackMate is a user-friendly personal task tracker that helps you organize your 
 
 ## 🚀 Features
 
-- 🔐 Simple login with username (stored in localStorage)
+- 🔐 Login/Register with username and password
 - ➕ Add, edit, and delete tasks
 - ✅ Toggle task completion status
 - 📄 View creation date/time

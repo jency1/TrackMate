@@ -44,3 +44,12 @@ TrackMate is a user-friendly personal task tracker that helps you organize your 
 3. Run `npm run dev`
 
 ---
+
+<br>
+
+<div align="center">
+
+Thank you for checking out <strong>TrackMate</strong>! 📋 <br>
+If you like this project, feel free to give it a star! ⭐ <br>
+
+</div>
